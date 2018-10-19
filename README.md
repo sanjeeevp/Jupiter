@@ -11,3 +11,4 @@
  * push it to remote(github.com) `git push -u origin --all`
 
 
+thanks for contributing.
