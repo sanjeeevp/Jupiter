@@ -10,4 +10,4 @@
  * stage your files locally for commit `git commit -a -m "Initial commit"`
  * push it to remote(github.com) `git push -u origin --all`
 
-Thank you all.
+Thank you all. Please contribute
